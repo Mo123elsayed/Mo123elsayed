@@ -34,13 +34,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dwyl/learn-flutter/master/img/flutter-logo.gif" alt="Flutter Logo Animation" width="200"/>
 </p>
-
----
-
-### ☕ Support
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" >
-  </a>
-</p>
