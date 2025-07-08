@@ -2,7 +2,7 @@
 <h3 align="center">💙 Aspiring Flutter Developer | Building to Learn | Open to Opportunities</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Flutter Logo Animation" width="200"/>
+  <img src="https://raw.githubusercontent.com/dwyl/learn-flutter/master/img/flutter-logo.gif" alt="Flutter Logo Animation" width="200"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### 📱 My Favorite Tool
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Animated Flutter Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/dwyl/learn-flutter/master/img/flutter-logo.gif" alt="Flutter Logo Animation" width="200"/>
 </p>
 
 ---
