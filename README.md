@@ -2,7 +2,7 @@
 <h3 align="center">💙 Aspiring Flutter Developer | Building to Learn | Open to Opportunities</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" width="300"/>
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Flutter Logo Animation" width="200"/>
 </p>
 
 ---
@@ -29,14 +29,10 @@
 
 ---
 
-### 📱 My Favorite Tool (Flutter Animation)
+### 📱 My Favorite Tool
 
 <p align="center">
-  <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" width="200" alt="Flutter Logo">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Animated Flutter Logo" width="200"/>
 </p>
 
 ---
