@@ -58,7 +58,7 @@
   <a href="mailto:muhammed.elsayed.usc@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/mohamedelsayed-dev" target="_blank">
+  <a href="https://github.com/Mo123elsayed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
